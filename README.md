@@ -219,3 +219,11 @@ The web interface **does not re-implement preprocessing**.
 Instead, it passes user input directly to the trained pipelines, ensuring full consistency with training.
 
 ---
+
+## Author
+
+**Name:** Architkumar J. Modi  
+**Branch:** Mathematics and Computing  
+**Enrollment Number:** 23323022
+
+---
